@@ -107,6 +107,22 @@ section .title::after{
 .navbar.sticky .logo a span{
     color: #fff;
 }
+.navbar .logo-2 a{
+    color: crimson;
+    font-size: 35px;
+    font-weight: 600;
+}
+.navbar .logo-2 a span{
+    color: crimson;
+    transition: all 0.3s ease;
+}
+.navbar.sticky .logo-2 a span{
+    color: #fff;
+}
+.navbar.sticky .logo-2 a {
+    color: #fff !important;
+}
+
 .navbar .menu li{
     list-style: none;
     display: inline-block;
