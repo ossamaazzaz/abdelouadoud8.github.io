@@ -281,7 +281,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "+30 project";
+    content: "10 projects";
 }
 .services .serv-content img{
     width: calc(100% - 20px);
