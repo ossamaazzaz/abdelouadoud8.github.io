@@ -1,2 +1,5 @@
 # Abdelouadoud8.github.io
-Here is my portfolio with a lot of my work, I hope you enjoy it :)
+Hello, here is my portfolio containing some of my work
+The portfolio contains both: UI designer & Front-end work,
+
+Enjoy it 😊 
